@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://imgur.com/a/es0CutP" alt="Prévia do projeto" width="600"/>
+  <img src="https://github.com/Mellosre/orcamento-pessoal/blob/main/src/Captura%20de%20tela%202025-09-16%20201113.png" alt="Prévia do projeto" width="600"/>
 </p>
 
 ## 🎯 Visão Geral do Projeto
