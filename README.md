@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/es0CutP.png" alt="Prévia do projeto" width="600"/>
+  <img src="https://imgur.com/a/es0CutP" alt="Prévia do projeto" width="600"/>
 </p>
 
 ## 🎯 Visão Geral do Projeto
