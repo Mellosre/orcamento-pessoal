@@ -1,7 +1,7 @@
 # 💸 Calculadora de Orçamento Pessoal
 
-![Prévia do Projeto](https://i.imgur.com/link-da-sua-imagem-ou-gif.png)
-*(Dica: Grave um GIF rápido ou tire uma captura de tela do seu projeto em ação e substitua o link acima para causar uma ótima primeira impressão!)*
+![Prévia do Projeto](https://imgur.com/a/es0CutP)
+
 
 ## 🎯 Visão Geral do Projeto
 
@@ -61,10 +61,10 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/SEU-USUARIO/nome-do-repositorio.git)
+git clone [https://github.com/Mellosre/orcamento-pessoal.git](https://github.com/Mellosre/orcamento-pessoal.git)
 
 # 2. Navegue até o diretório do projeto
-cd nome-do-repositorio
+cd orcamento-pessoal
 
 # 3. Instale as dependências necessárias
 npm install
