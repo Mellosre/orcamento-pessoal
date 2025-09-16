@@ -1,7 +1,11 @@
 # 💸 Calculadora de Orçamento Pessoal
 
-![Prévia do Projeto](https://imgur.com/a/es0CutP)
 
+<p align="left">
+  <a href="https://imgur.com/a/es0">
+    <img src="[https://skillicons.dev/icons?i=react,javascript,html,css,git](https://imgur.com/a/es0CutP)" />
+  </a>
+</p>
 
 ## 🎯 Visão Geral do Projeto
 
@@ -61,7 +65,7 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/Mellosre/orcamento-pessoal.git](https://github.com/Mellosre/orcamento-pessoal.git)
+git clone https://github.com/Mellosre/orcamento-pessoal.git
 
 # 2. Navegue até o diretório do projeto
 cd orcamento-pessoal
