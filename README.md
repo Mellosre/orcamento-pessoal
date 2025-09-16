@@ -1,10 +1,8 @@
 # 💸 Calculadora de Orçamento Pessoal
 
 
-<p align="left">
-  <a href="https://imgur.com/a/es0">
-    <img src="https://imgur.com/a/es0CutP" />
-  </a>
+<p align="center">
+  <img src="https://i.imgur.com/es0CutP.png" alt="Prévia do projeto" width="600"/>
 </p>
 
 ## 🎯 Visão Geral do Projeto
